@@ -1,0 +1,30 @@
+body {
+  padding-top: 120px;
+}
+
+.usuario {
+  margin-right: 20px;
+}
+
+.admin {
+  margin-left: 20px;
+}
+
+img.mediana {
+  width: 100px;
+  height: 100px;
+}
+
+#success_alert {
+  position: fixed;
+  top: 8%;
+  right: 0;
+  z-index: 10000;
+}
+
+#error_alert {
+  position: fixed;
+  top: 8%;
+  right: 0;
+  z-index: 10000;
+}
